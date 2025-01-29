@@ -1,10 +1,11 @@
 #!/bin/bash
 
-#The following line is for creating a dir called "students_directory"
 mkdir students_directory
 
-#In the dir above, we are addint three txt files  using the following command
 touch students_directory/cohort-1.txt
 touch students_directory/cohort-2.txt
 touch students_directory/cohort-3.txt
 
+echo -e "Alice\nBob\nCharlie" >> students_directory/cohort-1.txt
+echo -e "David\nEve\nFrank" > students_directory/cohort-2.txt
+echo -e "Grace\nHannah\nIsaac" > students_directory/cohort-3.txt

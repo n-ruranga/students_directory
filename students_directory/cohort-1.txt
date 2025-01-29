@@ -1,3 +1,3 @@
-1.student added by Evan
-2. another student added by Evan
-
+Alice
+Bob
+Charlie
